@@ -1,6 +1,8 @@
 
 App name - Radiance <br>
 
+<img src='./ProjectRadiance/AppSnap.png'>
+
 
 
   <br>
@@ -21,7 +23,7 @@ Instructions to run the project <br>
 
 1.	Introduction <br>
 <br>
-◾	Our project Radiance offers seamless cross-party integration, breaking down data silos and providing a centralized platform where stakeholders can collaborate, share data, and make informed decisions. <br>
+◾Radiance offers seamless cross-party integration, breaking down data silos and providing a centralized platform where stakeholders can collaborate, share data, and make informed decisions. <br>
 ◾	Radiance ensures all stakeholders adhere to the latest industry compliance regulations through strict validations throughout the platform. <br>
 ◾	The most important feature of Radiance is that it can establish connections between renewable energy production companies and financial institutions, thus streamlining the financing process and increasing transparency to attract potential investors. <br>
 ◾	Our ecosystem helps businesses optimize loan application process, procurement process, monitor shipping and enhance overall efficiency of the supply chain. <br>
@@ -50,13 +52,9 @@ The application is implemented in NetBeans and integrated with DBO4 database. It
 5.	Supplier Enterprise <br>
 <img src='RadianceArchitecturalDiagram.jpeg'>
 
-
-
 <br>
 <br>
 <br>
-
-
 
 3.	Application Class Diagram <br>
 Please find the detailed implementation of the application below in the form of class diagram - <br>
@@ -68,7 +66,6 @@ Please find the detailed implementation of the application below in the form of 
  <br>
  <br>
  
-
 4.	Key Technical Features: <br>
 <br>
 <br>
