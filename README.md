@@ -185,13 +185,6 @@ The platform is built using a modern technology stack, including: <br>
 
 
 
-7.	Instructions to run this application (git commands) <br>
-git clone git@github.com:aed5100/final-project-team-radiance.git Open the folder through the Netbeans > run project <br>
-(for devs) <br>
-git status > Check you branch git add . > Add your changes git commit -m “your message” <br>
-git push origin <your branch name> <br> 
-git push origin feature (after coordinating ) lastly merge the changes to main iteration wise <br>
-
 
 
 
